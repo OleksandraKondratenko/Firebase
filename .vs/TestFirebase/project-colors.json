@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2b259a46-12c5-485a-8acc-801e7f2e993f": {
+      "ProjectGuid": "2b259a46-12c5-485a-8acc-801e7f2e993f",
+      "DisplayName": "TestFirebase",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
